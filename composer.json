@@ -1,4 +1,5 @@
 {
   "name": "conus/oss-coding-standard-php",
-  "description": "CONUS PHP Coding Standard"
+  "description": "CONUS PHP Coding Standard",
+  "license": "Apache-2.0"
 }
